@@ -8,7 +8,7 @@ The skill doesn't come with a fixed look. It asks for your own colours, fonts an
 
 **Claude apps (claude.ai, desktop):**
 
-1. Download `list-reel.zip` from the [latest release](../../releases/latest), or zip the `list-reel` folder yourself.
+1. Download [`list-reel.zip`](https://github.com/crownzdesigns-gif/list-reel-skill/raw/main/list-reel.zip), or zip the `list-reel` folder yourself.
 2. Open **Settings → Capabilities → Skills** and upload the zip.
 
 **Claude Code:**
@@ -30,7 +30,8 @@ Claude will ask for your topic, brand kit and layout, draft the list for you to 
 
 ```
 list-reel/
-└── SKILL.md   # the instructions Claude follows
+└── SKILL.md      # the instructions Claude follows
+list-reel.zip     # the same folder, zipped for upload
 ```
 
 ## License
